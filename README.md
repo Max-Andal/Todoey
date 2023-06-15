@@ -1,16 +1,16 @@
 # todoapp
 
-A new Flutter project.
+Todaey as you can see the name is todo app that have user registration and login also had a home page where you can put all your todos that day.
 
-## Getting Started
+I used flutter and firebase for user registration and user sign-in , and I used Hive as a local database.
 
-This project is a starting point for a Flutter application.
+Your username and Name will be stored at firebase and your todos will be stored at your local mobile.
 
-A few resources to get you started if this is your first Flutter project:
+I coded this app watching along (Mitch Koko) YouTube channel and I added my touch on login and signup.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+What I learned during building this app is:
+1.  how to use Hive_flutter to store database on local.
+2. How to use AuthStatechanges() on firebase to keep user logged in.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Regards	Zubeir Kedie
+	enjoy coding.
